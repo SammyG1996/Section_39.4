@@ -1,0 +1,9 @@
+.eight-ball-circle {
+    width: 10%;
+    height: 10%;
+    border: 1px solid black;
+    padding: 50px;
+    border-radius: 50%;
+    color: aliceblue;
+    
+}
